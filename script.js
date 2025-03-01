@@ -15,7 +15,7 @@ function nextStep(step) {
         container.innerHTML = '<h2>Its so beautiful to make you feel special😍</h2>' +
                               '<p>Wishing you a beautiful day with a smile on your face everytime you think about this 😉<br><br>' +
                               'I do not want anything from you<br>' +
-                              'I feel good making you feel this way💖</p>';
+                              'I love making you feel this way💖</p>';
     }
     container.classList.add('fade');
 }
